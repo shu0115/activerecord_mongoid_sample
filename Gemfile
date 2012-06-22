@@ -48,3 +48,7 @@ end
 group :development do
   gem 'sqlite3'
 end
+
+# For OmniAuth
+gem 'omniauth-scaffold'
+gem 'omniauth-twitter'

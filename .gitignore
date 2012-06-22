@@ -13,3 +13,7 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# Add
+.DS_Store
+/config/initializers/local_setting.rb
